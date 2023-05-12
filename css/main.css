@@ -1,0 +1,29 @@
+html{
+    background-color: #aad4cf;
+}
+.wrapper {
+    padding: 5px;
+    width: 1000px;
+}
+img {
+    max-width: 150px;
+}
+.bio {
+    overflow: hidden;
+}
+p{
+    font-size: 20px;
+}
+
+dl {
+  font-size: 1.15rem;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  display: block;
+  margin-left: 0;
+}
