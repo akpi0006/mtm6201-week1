@@ -2,50 +2,44 @@ html{
     background-color: #d18cf7e0;
     font-size: 30px;
 }
-
-
+/* adds a wrapper to the whole body */
 .wrapper {
     padding: 10px;
     width: 1000px;
     background-color: rgb(245, 201, 255);
 }
 
-
+/* sets the background colour and size */
 h1{
    background-color: rgb(182, 139, 222);
    font-size: 2rem;
 }
-
-
+/* floats the image and sets max-width */
 img {
     max-width: 150px;
     float: left;
     margin-right: 16px;
 }
-
-
+/* wraps text around image */
 .text-wrap {
     overflow: hidden;
 }
 
-
 p{
     font-size: 30px;
 }
-
-
+/* sets size of description list */
 dl {
   font-size: 1.15rem;
   background-color: rgb(182, 139, 222);
 }
 
-
 dt {
   font-weight: bold;
 }
 
-
 dd {
   display: block;
   margin-left: 0;
+  margin-top: 20px;
 }
