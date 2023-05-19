@@ -2,6 +2,10 @@ html{
     background-color: #d18cf7e0;
     font-size: 30px;
 }
+body{
+  max-width: 1200px;
+  margin: auto;
+}
 /* adds a wrapper to the whole body */
 .wrapper {
     padding: 10px;
